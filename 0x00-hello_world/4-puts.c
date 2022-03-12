@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
- * Description- Print out a string out with double quote
+ * main- Print out a string out with double quote
  *
  * Return: Always 0(success)
  *
